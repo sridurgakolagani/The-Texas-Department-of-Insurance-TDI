@@ -3,7 +3,7 @@ In this project, I build an ETL Pipeline for TDI [Insurance Complaints Data](htt
 
 I start with extracting the data from Texas Open Data API, then perform some transformations, data validation, and then, finally load it into Snowflake.
 
-In Snowflake, I perform some Exploratory Data Analysis (EDA) to answer some questions.
+In Snowflake,the data is queried to answer some questions.
 
 **About the data**
 
